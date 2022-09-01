@@ -1,9 +1,7 @@
 body{
-    background-color: aqua;
-}
-h1{
-    background-color: red;
-    color:aqua;
-    font-family: aerial;
-   
+    background-color: black;
+    color:tomato;
+    text-rendering: geometricPrecision;
+    
+    
 }
